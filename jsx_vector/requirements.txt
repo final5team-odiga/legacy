@@ -1,0 +1,9 @@
+azure-search-documents
+azure-core
+azure-identity
+
+openai
+
+python-dotenv
+
+pathlib2
